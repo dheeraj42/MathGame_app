@@ -112,7 +112,7 @@ public class GameSub extends AppCompatActivity {
 
         question.setText(number1 + " - " +number2);
 
-        startTimer();
+        startTimer(); // time starts
     }
 
     public void startTimer(){
